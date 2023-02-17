@@ -9,12 +9,6 @@ body {
   box-sizing: border-box;
 }
 
-.flex-container {
-  display: flex;
-  flex-direction: row;
-  text-align: center;
-}
-
 .flex-item-left {
   flex: 50%;
 }
@@ -37,6 +31,8 @@ body {
   border-radius: 10px;
   background-color: #fff;
   max-height:fit-content;
+  display: flex;
+  flex-direction: row;
 }
 
 picture {
@@ -115,11 +111,8 @@ p {
     padding: 3vh;
   }
 
-  .flex-container {
-    flex-direction: column;
-  }
-
   .main {
+    flex-direction: column;
     max-width: 350px;
     margin: auto;
     text-align: left;
