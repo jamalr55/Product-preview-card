@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/jamalr55/Product-preview-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://effulgent-pithivier-3dd5f0.netlify.app/)
 
 ## My process
 
