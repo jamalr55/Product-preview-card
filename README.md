@@ -71,4 +71,4 @@ I plan on growing my knowledge on flexbox by studying more on w3school.com
 
 ## Acknowledgments
 
-w3school.com
+w3schools.com
